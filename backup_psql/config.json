@@ -1,0 +1,9 @@
+{
+    "pg_dumpall": "C:\\Program Files\\PostgreSQL\\9.4\\bin\\pg_dumpall.exe",
+    "logdir": "C:\\backup\\logs",
+    "logfilename": "backup_psql.log",
+    "backupdir": "\\\\vnas\\storage\\Technical_Backup\\tactic-psql",
+    "backupname": "psqldump",
+    "maxage": 604800,
+    "zipped": true
+}

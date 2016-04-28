@@ -1,0 +1,9 @@
+{
+    "scripts_location": "C:\\scripts_backup",
+    "logdir": "C:\\backup\\logs",
+    "logfilename": "backup_scripts.log",
+    "backupdir": "\\\\vnas\\storage\\Technical_Backup\\scripts_backup",
+    "backupname": "scripts_backup",
+    "maxage": 604800,
+    "zipped": true
+}
